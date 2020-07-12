@@ -1,3 +1,8 @@
+React To Do List
+This is a simple to do list created using ReactJS. Type in a job, objective or goal and press 'enter' and it will create a bulleted list of objectives you entered.
+
+This application was created during the Road To Hire Program.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
